@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Default_Interface_Implementation", "Default_Interface_Implementation\Default_Interface_Implementation.csproj", "{941908F1-E204-4904-ADF4-1EE6EEC111D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch_Expressions_And_Pattern_Matching", "Switch_Expressions_And_Pattern_Matching\Switch_Expressions_And_Pattern_Matching.csproj", "{DEE6E9D8-F1C4-438A-BBB7-86947D04C107}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{941908F1-E204-4904-ADF4-1EE6EEC111D8}.Release|x64.Build.0 = Release|Any CPU
 		{941908F1-E204-4904-ADF4-1EE6EEC111D8}.Release|x86.ActiveCfg = Release|Any CPU
 		{941908F1-E204-4904-ADF4-1EE6EEC111D8}.Release|x86.Build.0 = Release|Any CPU
+		{DEE6E9D8-F1C4-438A-BBB7-86947D04C107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE6E9D8-F1C4-438A-BBB7-86947D04C107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE6E9D8-F1C4-438A-BBB7-86947D04C107}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DEE6E9D8-F1C4-438A-BBB7-86947D04C107}.Debug|x64.Build.0 = Debug|Any CPU
+		{DEE6E9D8-F1C4-438A-BBB7-86947D04C107}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DEE6E9D8-F1C4-438A-BBB7-86947D04C107}.Debug|x86.Build.0 = Debug|Any CPU
+		{DEE6E9D8-F1C4-438A-BBB7-86947D04C107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE6E9D8-F1C4-438A-BBB7-86947D04C107}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEE6E9D8-F1C4-438A-BBB7-86947D04C107}.Release|x64.ActiveCfg = Release|Any CPU
+		{DEE6E9D8-F1C4-438A-BBB7-86947D04C107}.Release|x64.Build.0 = Release|Any CPU
+		{DEE6E9D8-F1C4-438A-BBB7-86947D04C107}.Release|x86.ActiveCfg = Release|Any CPU
+		{DEE6E9D8-F1C4-438A-BBB7-86947D04C107}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

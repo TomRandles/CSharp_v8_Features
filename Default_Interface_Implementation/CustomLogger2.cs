@@ -9,6 +9,8 @@ namespace Default_Interface_Implementation
         {
             Console.WriteLine($"{level.ToString()}: Hello C# 8!! {message}");
         }
+
+        // override keyword has not been added
         public void Log(Exception message)
         {
             Console.WriteLine($"From: Overridden method: Hello C# 8!! {message}");
